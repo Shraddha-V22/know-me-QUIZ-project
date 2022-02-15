@@ -47,8 +47,8 @@ var meQuestions4 = {
   answer : "e"
 };
 var meQuestions5 = {
-  question : "if someone gave you 10 million dollars to slap me would you accept? (a).Yes (b).No (c).Yes and we will divide it between us ",
-  answer : "c"
+  question : "What is my favourite color? (a).purple (b).white (c).black (d).ALL ",
+  answer : "d"
 };
 
 var meQuiz = [meQuestions1, meQuestions2, meQuestions3, meQuestions4, meQuestions5]
